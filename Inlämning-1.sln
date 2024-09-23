@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlämning-1", "Inlämning-1\Inlämning-1.csproj", "{066C5543-2FF7-43C1-A610-43A4DCDC4841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlämning-1_TestProject", "Inlämning-1_TestProject\Inlämning-1_TestProject.csproj", "{8E1DCDE2-81E7-450C-841C-DA02D71E84CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066C5543-2FF7-43C1-A610-43A4DCDC4841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066C5543-2FF7-43C1-A610-43A4DCDC4841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066C5543-2FF7-43C1-A610-43A4DCDC4841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066C5543-2FF7-43C1-A610-43A4DCDC4841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1DCDE2-81E7-450C-841C-DA02D71E84CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1DCDE2-81E7-450C-841C-DA02D71E84CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1DCDE2-81E7-450C-841C-DA02D71E84CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1DCDE2-81E7-450C-841C-DA02D71E84CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48EE8D81-8ADB-4082-9B62-805E82A5D595}
+	EndGlobalSection
+EndGlobal
